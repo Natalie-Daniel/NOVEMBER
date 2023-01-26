@@ -3,7 +3,7 @@
     "ejs": "^3.1.8",
     "express": "^4.18.2"
   },
-  "name": "fuzzy-chainsaw-november",
+  "name": "NOVEMBER",
   "description": "- download & install node \r - check it: `node -v`\r - turn it off and on...might need to kill terminal/vsCode and restart for `node -v` to register\r - (assumes bash/gitbash, vsCode)",
   "version": "1.0.0",
   "main": "index.js",
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/barrycumbie/fuzzy-chainsaw-november.git"
+    "url": "git+https://github.com/Natalie-Daniel/NOVEMBER.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/barrycumbie/fuzzy-chainsaw-november/issues"
+    "url": "https://github.com/Natalie-Daniel/NOVEMBER/issues"
   },
-  "homepage": "https://github.com/barrycumbie/fuzzy-chainsaw-november#readme"
+  "homepage": "https://github.com/Natalie-Daniel/NOVEMBER#readme"
 }
